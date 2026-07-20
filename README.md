@@ -12,6 +12,7 @@ By day I help big companies figure out what's next. On nights and weekends I shi
 | ⛳ | **[The 1813 Classic](https://bjornswanson0.github.io/1813-Classic-2026/)** | Official site of the inaugural PIKE golf classic — full roster, live scoring vibes · [repo](https://github.com/bjornswanson0/1813-Classic-2026) |
 | 🥪 | **[East Village Finest Deli](https://bjornswanson0.github.io/east-village-finest-deli/)** | Fan site for NYC's finest deli — family-run at 50 Avenue B since 2010 · [repo](https://github.com/bjornswanson0/east-village-finest-deli) |
 | 💪 | **[Morning Grind](https://bjornswanson0.github.io/morninggrind/)** | Local-first workout PWA for sharing morning workouts with friends · [repo](https://github.com/bjornswanson0/morninggrind) |
+| 🥚 | **[Nest Egg](https://bjornswanson0.github.io/nest-egg/)** | Retirement calculator with the whole picture — 401(k), Roth IRA, HSA, HYSA, and the debt other calculators ignore · [repo](https://github.com/bjornswanson0/nest-egg) |
 
 ## Say hi
 
