@@ -16,3 +16,7 @@ By day I help big companies figure out what's next. On nights and weekends I shi
 ## Say hi
 
 [LinkedIn](https://www.linkedin.com/in/bjorn-swanson/) · [dinq card](https://dinq.me/mydinq?domain=bjornswanson) · [bjornswanson0@gmail.com](mailto:bjornswanson0@gmail.com)
+
+---
+
+*Built by hand. Fueled by coffee.* ☕
