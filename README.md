@@ -15,7 +15,7 @@ By day I help big companies figure out what's next. On nights and weekends I shi
 
 ## Say hi
 
-[LinkedIn](https://www.linkedin.com/in/bjorn-swanson/) · [dinq card](https://dinq.me/mydinq?domain=bjornswanson) · [bjornswanson0@gmail.com](mailto:bjornswanson0@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bjorn-swanson/) · [dinq card](https://dinq.me/mydinq?domain=bjornswanson) · [Strava](https://www.strava.com/athletes/74313933) · [Spotify](https://open.spotify.com/user/22kkspy3nsdkllnbk5kpoppgy) · [bjornswanson0@gmail.com](mailto:bjornswanson0@gmail.com)
 
 ---
 
